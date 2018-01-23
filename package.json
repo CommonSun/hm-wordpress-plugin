@@ -1,9 +1,9 @@
 
 {
-  "name": "sample-plugin",
-  "version": "0.1.0",
+  "name": "heymarket-widget",
+  "version": "0.1.1",
   "main": "Gruntfile.js",
-  "author": "YOUR NAME HERE",
+  "author": "Anthony Pelot",
   "devDependencies": {
     "grunt": "~0.4.5",
     "grunt-wp-i18n": "~0.5.0",

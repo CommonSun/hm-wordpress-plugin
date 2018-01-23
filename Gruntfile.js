@@ -9,7 +9,7 @@ module.exports = function( grunt ) {
 
 		addtextdomain: {
 			options: {
-				textdomain: 'sample-plugin',
+				textdomain: 'heymarket-widget',
 			},
 			target: {
 				files: {
@@ -30,8 +30,8 @@ module.exports = function( grunt ) {
 			target: {
 				options: {
 					domainPath: '/languages',
-					mainFile: 'sample-plugin.php',
-					potFilename: 'sample-plugin.pot',
+					mainFile: 'heymarket-widget.php',
+					potFilename: 'heymarket-widget.pot',
 					potHeaders: {
 						poedit: true,
 						'x-poedit-keywordslist': true
